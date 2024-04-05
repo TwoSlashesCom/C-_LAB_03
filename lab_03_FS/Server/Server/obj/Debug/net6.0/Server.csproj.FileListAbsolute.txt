@@ -1,0 +1,30 @@
+D:\SE\lab_03_FS\Server\Server\bin\Debug\net6.0\Server.exe
+D:\SE\lab_03_FS\Server\Server\bin\Debug\net6.0\Server.deps.json
+D:\SE\lab_03_FS\Server\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\SE\lab_03_FS\Server\Server\bin\Debug\net6.0\Server.dll
+D:\SE\lab_03_FS\Server\Server\bin\Debug\net6.0\Server.pdb
+D:\SE\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\SE\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\SE\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\SE\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\SE\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.dll
+D:\SE\lab_03_FS\Server\Server\obj\Debug\net6.0\refint\Server.dll
+D:\SE\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.pdb
+D:\SE\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\SE\lab_03_FS\Server\Server\obj\Debug\net6.0\ref\Server.dll
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\bin\Debug\net6.0\Server.exe
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\bin\Debug\net6.0\Server.deps.json
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\bin\Debug\net6.0\Server.dll
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\bin\Debug\net6.0\Server.pdb
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.sourcelink.json
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.dll
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\obj\Debug\net6.0\refint\Server.dll
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.pdb
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Server\Server\obj\Debug\net6.0\ref\Server.dll

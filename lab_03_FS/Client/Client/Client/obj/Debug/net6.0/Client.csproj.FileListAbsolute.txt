@@ -1,0 +1,30 @@
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\bin\Debug\net6.0\Client.exe
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\bin\Debug\net6.0\Client.deps.json
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\bin\Debug\net6.0\Client.dll
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\bin\Debug\net6.0\Client.pdb
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.sourcelink.json
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.dll
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\refint\Client.dll
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.pdb
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+D:\Учеба\SE C#\C-SE-Labs\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\ref\Client.dll
+D:\SE\lab_03_FS\Client\Client\Client\bin\Debug\net6.0\Client.exe
+D:\SE\lab_03_FS\Client\Client\Client\bin\Debug\net6.0\Client.deps.json
+D:\SE\lab_03_FS\Client\Client\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\SE\lab_03_FS\Client\Client\Client\bin\Debug\net6.0\Client.dll
+D:\SE\lab_03_FS\Client\Client\Client\bin\Debug\net6.0\Client.pdb
+D:\SE\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+D:\SE\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\SE\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\SE\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\SE\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.dll
+D:\SE\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\refint\Client.dll
+D:\SE\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.pdb
+D:\SE\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+D:\SE\lab_03_FS\Client\Client\Client\obj\Debug\net6.0\ref\Client.dll
